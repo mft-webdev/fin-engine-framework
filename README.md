@@ -1,4 +1,4 @@
-# fin_engine_framework
+# fin-engine-framework
 project to develop a base framework to create pricing models based on time snapshots
 =======
 # Financial Engineering Framework
