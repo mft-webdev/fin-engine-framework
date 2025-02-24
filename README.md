@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fin_engine_framework
 project to develop a base framework to create pricing models based on time snapshots
 =======
@@ -25,5 +24,3 @@ Contributors names and contact info
 ## License
 ## Acknowledgments
 
-
->>>>>>> df33c08 (First commit)
